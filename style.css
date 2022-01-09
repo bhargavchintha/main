@@ -1,0 +1,223 @@
+/*
+file:///C:/Users/bharg/Documents/html/win.html#wimhofmethod.com
+
+div.Strong-Think-4::after{
+     clear: both;
+     display: table-cell;
+     content: " ";
+   }
+   div.Strong-Think-5{    
+     text-align: center;
+     padding-top: 20px;
+     padding-bottom: 20px;
+     width: 33.33%;
+   }
+   
+
+
+
+
+   div.Win-MEthod-2{
+     position: relative;
+     z-index: 9999;
+   }
+   svg.Svg-Win-Methods{
+     margin-left: -90px;
+     position: relative;
+   }
+   svg.Svg-Win-Methods-1{
+     height: 4rem;
+     position: absolute;
+     margin-left: 110px;
+     margin-top: -700px;
+     fill:  #ec7d00;
+     cursor: pointer;
+   }
+   svg.Svg-Win-Methods-1:hover{
+     fill:#f8a41a ;
+   }
+   @media screen and (max-width:1000px) {
+    div.Hidden_SVG{
+       display: none;
+    }
+   }
+   div.SVG-win-method-1::after{
+     clear: both;
+     display: table-cell;
+     content: " ";
+   }
+   div.SVG-win-method-2{
+     float: left;
+   }
+   .SVG-LEFt{
+     width: 26.5%;
+   }
+   .SVG-RighT{
+     width: 73.5%;
+   }
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   
+   div.h1-win-method{
+     padding-top: 6rem;
+     padding-bottom: 2rem;
+     width: 100%;
+     display: block;
+   }
+   h1.What-win{
+     color: #fff;
+     font-weight: 100;
+     text-transform: uppercase;
+     padding-bottom: 2rem;
+     margin-bottom: 1.25rem;
+     font-size: 2rem;
+     line-height: 2rem;
+     font-family: sans-serif;
+   }
+   h1.What-win span{
+     color: #ffffff;
+     font-weight: 600;
+   }
+   div.Over-Time-win::after{
+     display: table-cell;
+     clear: both;
+     content: " ";
+   }
+   div.Over-Time-win-1{
+     float: left;
+     width: 50%;
+   }
+   @media screen and (max-width:1000px) {
+    div.Over-Time-win-1{
+    width: 80%;
+    margin: auto;
+    }
+    .SVG-RighT{
+      width: 100%;
+      margin: auto;
+    }
+   }
+   div.Over-Time-1{
+     margin-bottom: 1.25rem;
+   }
+   p.Over-Time{
+     color: #ffffff;
+     font-size: 1rem;
+     line-height: 1.5rem;
+     margin-bottom: 0.75rem;
+     font-weight: 400;
+   }
+   div.We-Wear{
+     margin-left: 2rem;
+     margin-right: 2rem;
+   }
+   @media screen and (max-width:1100px) {
+    div.We-Wear{
+      margin: 0%;
+      margin-left: 0rem;
+     margin-right: 0rem ;
+    }
+   }
+   div.We-Wear-1{
+    padding-left: 2rem;
+     padding-right: 2rem;
+      }
+      p.WE-WEAR{
+        line-height: 2rem;
+        opacity: 0.5;
+        font-weight: 100;
+        margin-bottom: 1.25rem;
+        color: #ffffff;
+        font-size: 1rem;
+      }
+      div.Win_REad-More{
+        padding-top: 1.25rem;
+      }
+      button.WIN_Read{
+        color: #ffffff;
+        background-color: #f8a41a;
+        border-radius: 5px;
+        font-size: 1.25rem;
+        line-height: 1.75rem;
+        text-align: center;
+        outline: none;
+        border:none;
+        padding: 0.25rem 1.5rem ;
+      }
+   
+
+
+
+
+
+              <div class="SVG-win-method-2  SVG-LEFt"   >
+                <div class="Hidden_SVG">
+                  <svg class="Svg-Win-Methods" width="369.000000pt" height="600.000000pt" viewBox="0 0 369.000000 600.000000" preserveAspectRatio="xMidYMid meet">
+                     <g transform="translate(0.000000,600.000000) scale(0.100000,-0.100000)" fill="#12212e" stroke="orange" stroke-width="8">
+                     <path d="M0 3288 c1 -2041 3 -2708 12 -2693 6 11 538 931 1181 2045 643 1114 1185 2054 1203 2090 90 175 99 409 24 585 -12 28 -103 193 -203 367 l-182 317 -1017 1 -1018 0 0 -2712z" /></g>
+                 </svg>
+                 <svg class="Svg-Win-Methods-1" viewBox="0 0 132.9 134.19">
+                    <path d="M130.36,18.41,99.67.68a5.09,5.09,0,0,0-5.09,0L66.45,16.94,38.31.68a5.09,5.09,0,0,0-5.09,0L2.54,18.41A5.1,5.1,0,0,0,0,22.82v35.4a5.1,5.1,0,0,0,2.54,4.41L30.68,78.89v32.5a5.07,5.07,0,0,0,2.54,4.4l30.69,17.72a5.08,5.08,0,0,0,5.08,0l30.68-17.72a5.07,5.07,0,0,0,2.54-4.4V78.89l28.15-16.26a5.1,5.1,0,0,0,2.54-4.41V22.82A5.1,5.1,0,0,0,130.36,18.41Zm-93,50.72a3.6,3.6,0,0,1-3.26,0L11.8,56.23a3.64,3.64,0,0,1-1.63-2.82V27.64a3.64,3.64,0,0,1,1.63-2.83l22.33-12.9a3.6,3.6,0,0,1,3.26,0l22.34,12.9a3.62,3.62,0,0,1,1.63,2.83V53.41a3.61,3.61,0,0,1-1.63,2.82L43,65.92,39.69,67.8ZM92,106.57a3.61,3.61,0,0,1-1.63,2.82L68.08,122.28a3.6,3.6,0,0,1-3.26,0L42.48,109.39a3.61,3.61,0,0,1-1.63-2.82V80.77A3.58,3.58,0,0,1,42.48,78l16.78-9.7,3.26-1.88L64.82,65a3.6,3.6,0,0,1,3.26,0L90.41,78A3.58,3.58,0,0,1,92,80.77Zm30.68-53.16a3.63,3.63,0,0,1-1.62,2.82L98.76,69.13a3.6,3.6,0,0,1-3.26,0L73.16,56.23a3.63,3.63,0,0,1-1.62-2.82V27.64a3.63,3.63,0,0,1,1.62-2.83L95.5,11.91a3.58,3.58,0,0,1,3.25,0l22.35,12.9a3.63,3.63,0,0,1,1.62,2.83Z" />
+                  </svg>
+                </div>
+              </div>
+               <div class="SVG-win-method-2  SVG-RighT ">
+                  <div class="h1-win-method">
+                    <h1  class="What-win"  >WHAT IS THE<span> WIM HOF METHOD</span>?</h1>
+                  </div>
+
+                  <div class="Over-Time-win"  >
+                    <div class="Over-Time-win-1">
+                      <div class="Over-Time">
+                       <div class="Over-Time-1">
+                          <p class="Over-Time">OVER TIME, WE AS HUMANS HAVE DEVELOPED A DIFFERENT ATTITUDE TOWARDS NATURE AND WE'VE FORGOTTEN ABOUT OUR INNER POWER.</p>
+                          <p class="Over-Time">THIS IS THE ABILITY OF OUR BODY TO ADAPT TO EXTREME TEMPERATURE AND SURVIVE WITHIN OUR NATURAL ENVIRONMENT.</p>  
+                          <p class="Over-Time">THE WIM HOF METHOD IS BASED ON THIS PRINCIPLE.</p>
+                        </div>  
+                      </div>
+                    </div>
+                    <div class="Over-Time-win-1">
+                       <div class="We-Wear">
+                         <div class="We-Wear-1">
+                             <p  class="WE-WEAR">
+                              Because we wear clothes and artificially control the temperatures at home and at work. we've greatly reduced the natural stimulation of our bodies, atrophying the age-old mechanisms related to our survival and basic function. Because these deeper physiological layers are no longer triggered, our bodies are no longer in touch with this inner power. The inner power is a powerful force that can be reawakened by stimulating these physiological processes through the Wim Hof Method.
+                             </p>
+                             <div class="Win_REad-More">
+                               <button class="WIN_Read">
+                                 Read more
+                               </button>
+                             </div>
+                         </div>
+                       </div>
+                    </div>
+                  </div> 
+              </div>
+
+
+
+
+
+
+
+
